@@ -34,6 +34,11 @@ dependencies {
 
     //Para agregar Login de Facebook
     compile 'com.facebook.android:facebook-android-sdk:[4,5)'
+
+    //Para agregar las dependencias de Firebase
+    compile 'com.google.firebase:firebase-auth:10.2.1'    //Authentication
+    compile 'com.google.firebase:firebase-crash:10.2.1'   //Crash Reporting
+    compile 'com.google.firebase:firebase-storage:10.2.1' //Storage
 }
 
 // Para agregar a Firebase
