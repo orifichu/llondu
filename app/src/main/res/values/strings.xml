@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">llondu</string>
+
+    <!-- Para agregar el Login de Facebook -->
+    <string name="facebook_app_id">496091107394675</string>
+    <string name="fb_login_protocol_scheme">fb496091107394675</string>
 </resources>
